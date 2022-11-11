@@ -41,6 +41,9 @@ Here are some ideas to get you started:
 	<br><br><br>	
 </div>
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgm7642&layout=compact"><br><br><br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgm7642&layout=compact">
+	<br><br><br>
 	<img src="https://github-readme-stats.vercel.app/api?username=kgm7642&show_icons=true">
+	<br><br><br>
+	https://github.com/kgm7642/hit-counter
 </div>
