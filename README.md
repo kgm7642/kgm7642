@@ -16,10 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-	
+	https://github.com/kgm7642/hit-counter
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgm7642&show_icons=true&theme=radical)
-(https://github-readme-stats.vercel.app/api?username=kgm7642)](https://github.com/kgm7642/github-readme-stats)
+
 <div align=center><h2>📚 STACKS</h2></div>
 <div align="center">
 	<br>
@@ -37,7 +36,6 @@ Here are some ideas to get you started:
 	<br>
 	<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
 	<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-	<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 	<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 	<br>
 	<br>
