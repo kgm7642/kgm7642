@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=200&section=header&text=환영합니다!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=환영합니다!&fontSize=90" />
 
 <div align=center><h3>📚 Tech Stack 📚</h3></div>
 <div align="center">
