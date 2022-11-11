@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <div align=center><h3>📚 Tech Stack 📚</h3></div>
 <div align="center">
 	<br>
+	<h4>✨ Platforms & Languages ✨</h4>
 	<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 	<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
 	<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -32,6 +33,7 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 	<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 	<br><br><br>
+	<h4>🛠 Tools 🛠</h4>
 	<img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 	<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">
