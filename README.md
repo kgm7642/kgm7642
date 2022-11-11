@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
 	
 </div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgm7642&show_icons=true&theme=radical)
 (https://github-readme-stats.vercel.app/api?username=kgm7642)](https://github.com/kgm7642/github-readme-stats)
 <div align=center><h2>📚 STACKS</h2></div>
 <div align="center">
