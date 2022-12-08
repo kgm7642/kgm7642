@@ -41,11 +41,7 @@ Here are some ideas to get you started:
 	<br><br>
 </div>
 <div align="center">
-	<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkgm7642%2Fhit-counter"/</a>         <br><br><br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kgm7642&layout=compact">
-	<br><br>
-	<img src="https://github-readme-stats.vercel.app/api?username=kgm7642&show_icons=true">
-	<br><br>	
+
 </div>
 
 	
