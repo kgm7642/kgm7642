@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 	<br>
 </div>
-<br>
 <div align="center">
 
 :mailbox_with_mail: Contacts :mailbox_with_mail:
