@@ -41,9 +41,9 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 	<br>
 </div>
+<br>
 <div align="center">
 
-<br>
 :mailbox_with_mail: Contacts :mailbox_with_mail:
 <br><br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimsh1691@gmail.com)](mailto:kgm7642@gmail.com)
