@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ....
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=환영합니다!&fontSize=90" />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=kgm7642&style=for-the-badge&label=VISITORS&color=brightgreen" />
+</p>
 
 [![kgm's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgm7642)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=kgm331)](https://solved.ac/kgm331)
